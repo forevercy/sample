@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sample</string>
+    <string name="coupon_topic">优惠券</string>
+    <string name="coupon_number">编号：1211211215641265644</string>
+    <string name="coupon_content">10元优惠券</string>
+    <string name="coupon_deadline">截止日期：2016-12-12</string>
+    <string name="ledview_text">我爱你</string>
+</resources>

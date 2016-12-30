@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:customview="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.cytmxk.customview.circleprogress.CircleProgress
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:paddingLeft="60dp"
+        android:paddingTop="60dp"
+        android:paddingRight="60dp"
+        android:paddingBottom="60dp"
+        customview:cp_sweep_value="180"
+        android:background="@android:color/holo_blue_light"/>
+</LinearLayout>
